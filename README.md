@@ -1,7 +1,9 @@
 Presentation List
 =====
 
-Palestras são ótimos meios de estudo para quem desejar se atualizar e poder ficar mais por dentro do que está rolando em determinado nisso. Pensando nisso surgiu a idéia deste repositório. Catalogar em um único lugar ***palestras em video***, tanto de Desenvolvimento Web quanto de Marketing Digital que são disponibilizadas gratuítamente.
+Palestras são ótimos meios de estudo para quem deseja se atualizar e poder ficar mais por dentro do que está rolando em determinado nicho. Pensando nisso surgiu a idéia deste repositório. Catalogar em um único lugar ***palestras em video***, tanto de Desenvolvimento Web quanto de Marketing Digital.
+
+Lembrando que todas as palestras citadas abaixo são *gratuítas e já disponibilazadas* através da internet. Então, por favor, siga a mesma linha de raciocínio caso queira contribuir, coloque material gratuíto e de uso geral, ***não coloque material pirata*** sem autorização de seus co-autores que o mesmo não será aceito.
 
 Sem mais delongas, segue a lista abaixo.
 
