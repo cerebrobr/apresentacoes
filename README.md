@@ -23,6 +23,8 @@ Sem mais delongas, segue a lista abaixo.
 * [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
 * [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
+* [O fantástico mundo do JavaScript (Jean Carlo Emer)](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
+* [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
 
 ### Modern Workflow
 
@@ -38,6 +40,10 @@ Sem mais delongas, segue a lista abaixo.
 * [HTML5 APIs para Mobile (Zeno Rocha)](https://www.youtube.com/watch?v=ncYj9Z8LwNM)
 * [Responsive Web Design e a Ubiquidade da Web (Eduardo Shiota)](https://www.youtube.com/watch?v=9PQgEl8dOAY)
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
+* [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
+
+### Web Mobile
+* [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
 
 ### Ruby/RoR
 
