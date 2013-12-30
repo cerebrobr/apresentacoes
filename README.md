@@ -30,7 +30,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Criatividade Digital e a inspiração noturna (Eco Moliterno)](https://www.youtube.com/watch?v=44QZqfyEWNg)
 * [Turbinando seu ambiente de desenvolvimento com Yeoman](http://www.infoq.com/br/presentations/desenvolvimento-yeoman)
 * [Os desafios do desenvolvimento de front-end em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=5abzSBa33l4)
-* * [Usando Vagrant como ambiente de desenvolvimento Ruby (Nando Vieira)](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
+* [Usando Vagrant como ambiente de desenvolvimento Ruby (Nando Vieira)](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
+* [Como economizar tempo e melhorar os seus projetos utilizando Grunt (Bruno Azevedo)](http://www.youtube.com/watch?v=OF56WFEpAUQ)
 
 ### HTML5/CSS
 
@@ -38,6 +39,7 @@ Sem mais delongas, segue a lista abaixo.
 * [HTML5 APIs para Mobile (Zeno Rocha)](https://www.youtube.com/watch?v=ncYj9Z8LwNM)
 * [Responsive Web Design e a Ubiquidade da Web (Eduardo Shiota)](https://www.youtube.com/watch?v=9PQgEl8dOAY)
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
+* [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 
 ### Ruby/RoR
 
@@ -66,6 +68,12 @@ Sem mais delongas, segue a lista abaixo.
 * [Startups & Software (Fábio Akita)](https://www.eventials.com/pt-br/locaweb/startups-software-2/)
 * [Uma retrospectiva sobre projetos problemáticos (Daniel Lopes)](https://www.eventials.com/pt-br/locaweb/daniel-lopes-uma-retrospectiva-sobre-projetos-problematicos/)
 * [Solid através de BDD (Lucas Húngaro)](https://www.eventials.com/pt-br/locaweb/solid-atraves-de-bdd-um-guia-pratico-para-rubistas/)
+* [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](http://www.youtube.com/watch?v=MMLQioPwbik)
+
+### Games
+
+* [Press Start (Vitor Carlos)](http://www.youtube.com/watch?v=fB3TvRRfLTA)
+* [JavaScript e os Jogos no Browser (Willian Molinari - PotHix)](http://www.youtube.com/watch?v=TbgODPU2tro)
 
 ## Marketing Digital
 
@@ -91,7 +99,7 @@ Sem mais delongas, segue a lista abaixo.
 
 # Contribua a Vontade!
 
-Caso você deseje contribuir e compartilhar com alguma palestra que você conheca, as dicas são simples:
+Caso você deseje contribuir e compartilhar com alguma palestra que você conheça, as dicas são simples:
 
 * Faça um fork deste projeto
 * Adicione as suas opções de palestra seguindo os padrões de categorias, títulos e links.
