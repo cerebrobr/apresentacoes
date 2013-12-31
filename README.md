@@ -110,3 +110,11 @@ Caso você deseje contribuir e compartilhar com alguma palestra que você conhe�
 * Faça um fork deste projeto
 * Adicione as suas opções de palestra seguindo os padrões de categorias, títulos e links.
 * Mande um pull request!
+
+## Lista de contribuidores
+
+[@brenopolanski](https://github.com/brenopolanski)	
+[@arthurfigueiredo](https://github.com/arthurfigueiredo)	
+[@danielfeelfine](https://github.com/danielfeelfine)	
+
+Contribua você também! :)
