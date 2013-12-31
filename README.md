@@ -25,6 +25,10 @@ Sem mais delongas, segue a lista abaixo.
 * [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 * [O fantástico mundo do JavaScript (Jean Carlo Emer)](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 * [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
+* [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
+* [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
+* [NodeJS em Produção (Thiago Avelino)](https://www.youtube.com/watch?v=9SL1BeMLxdo)
+* [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 
 ### Modern Workflow
 
