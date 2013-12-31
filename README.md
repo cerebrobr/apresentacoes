@@ -87,7 +87,7 @@ Sem mais delongas, segue a lista abaixo.
 
 * [Data Visualization – Teoria, Técnicas e práticas](http://intercon.imasters.com.br/conteudo/data-visualization-teoria-tecnicas-e-praticas/)
 * [Data-Driven Marketing / Digital Analytics Trends](http://intercon.imasters.com.br/conteudo/data-driven-marketing-digital-analytics-trends-futuro-das-metricas-otimizacao-e-inteligencia-de-negocios/)
-* [Explorando a API do Google Analytic](http://intercon.imasters.com.br/conteudo/explorando-a-api-do-google-analytics/)
+* [Explorando a API do Google Analytics](http://intercon.imasters.com.br/conteudo/explorando-a-api-do-google-analytics/)
 * [Segmentação e personalização – Behavioral Targeting e Retargeting na prática](http://intercon.imasters.com.br/conteudo/segmentacao-e-personalizacao-behavioral-targeting-e-retargeting-na-pratica/)
 * [Social Mining para métricas – Extraindo dados direto da fonte](http://intercon.imasters.com.br/conteudo/social-mining-para-metricas-extraindo-dados-direto-da-fonte/)
 * [Testes A/B – Experimentando conteúdo e otimizando conversões](http://intercon.imasters.com.br/conteudo/testes-ab-experimentando-conteudo-e-otimizando-conversoes/)
