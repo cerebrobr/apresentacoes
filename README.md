@@ -20,8 +20,10 @@ Sem mais delongas, segue a lista abaixo.
 * [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
 * [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
 * [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
+* [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [AST – Abstract Syntax Tree (Miller Medeiros)](http://setemasters.imasters.com.br/conversas/ast-abstract-syntax-tree/)
+* [Javascript: rompendo e criando novos paradigmas (Miller Medeiros)](https://www.youtube.com/watch?v=iuGcH_IiM34)
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
 * [Programação assíncrona com JavaScript](http://www.infoq.com/br/presentations/programacao-assincrona-javascript)
 * [JavaScript Funcional (Plínio Balduino)](http://setemasters.imasters.com.br/conversas/javascript-funcional/)
@@ -31,6 +33,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
 * [NodeJS em Produção (Thiago Avelino)](https://www.youtube.com/watch?v=9SL1BeMLxdo)
 * [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
+* [Realtime com AngularJS e Socket IO (Ciro Nunes)](https://www.youtube.com/watch?v=5zcmBZ6mksM)
 
 ### Modern Workflow
 
