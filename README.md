@@ -64,6 +64,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Baby.com.br: Analisando, adaptando e melhorando a arquitetura da informação em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=KlIGJM5X-fA)
 * [Guias de Estilo para a interface do usuário (Dani Guerrato e Leandro Lima)](https://www.eventials.com/pt-br/locaweb/guias-de-estilo-para-a-interface-do-usuario/)
 * [Construindo um Framework (Diego Eis)](https://www.eventials.com/pt-br/locaweb/construindo-um-framework/)
+* [UX start's with U (Franz Figueroa)](https://www.youtube.com/watch?v=3d_dfi820zg)
 
 ### Conceitos Gerais
 
