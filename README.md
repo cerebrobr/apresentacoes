@@ -30,10 +30,13 @@ Sem mais delongas, segue a lista abaixo.
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
 * [O fantástico mundo do JavaScript (Jean Carlo Emer)](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 * [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
+* [AngularJS na prática (Tony Lampada)](https://www.youtube.com/watch?v=chYbHe4tsTo)
+* [AngularJS: Javascript sem stress (Renzo Nuccitelli)](https://www.youtube.com/watch?v=3Sb36C79xE0)
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
 * [NodeJS em Produção (Thiago Avelino)](https://www.youtube.com/watch?v=9SL1BeMLxdo)
 * [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 * [Realtime com AngularJS e Socket IO (Ciro Nunes)](https://www.youtube.com/watch?v=5zcmBZ6mksM)
+* [Node.js: serious business (Pedro Franceschi)](https://www.youtube.com/watch?v=_0opytdAXHk)
 
 ### Modern Workflow
 
@@ -70,6 +73,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Sua primeira app Rails 4.0 no ar em 30 minutos](https://www.eventials.com/pt-br/cafecomdevlondrina/cafecomdevlondrina-2/)
 * [Criando APIs com Ruby on Rails (Nando Vieira)](http://www.infoq.com/br/presentations/criando-apis-ruby-on-rails)
 * [Rails ama seu Front-end (Lucas Mazza)](https://www.eventials.com/pt-br/locaweb/rails-ama-seu-front-end/)
+* [Javascript, Ruby, Python e o mercado para os próximos anos (Alysson Franklin)](https://www.youtube.com/watch?v=SpW9hikuR84)
+* [Tendências de hoje e amanhã no mundo ruby (Fabio Akita)](https://www.youtube.com/watch?v=G_BvPRpnJOI)
 
 ### UI/UX
 
@@ -86,10 +91,18 @@ Sem mais delongas, segue a lista abaixo.
 * [Lean na Globo.com](http://www.infoq.com/br/presentations/usando-lean-globo-com)
 * [O Invisível - "The hole is underer" (Luli Radfahrer)](https://www.youtube.com/watch?v=168jsIqMjs0)
 * [Princípios SOLID: qualidade em programação em 5 conceitos](http://www.infoq.com/br/presentations/principios-solid)
-* [Startups & Software (Fábio Akita)](https://www.eventials.com/pt-br/locaweb/startups-software-2/)
 * [Uma retrospectiva sobre projetos problemáticos (Daniel Lopes)](https://www.eventials.com/pt-br/locaweb/daniel-lopes-uma-retrospectiva-sobre-projetos-problematicos/)
 * [Solid através de BDD (Lucas Húngaro)](https://www.eventials.com/pt-br/locaweb/solid-atraves-de-bdd-um-guia-pratico-para-rubistas/)
 * [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](http://www.youtube.com/watch?v=MMLQioPwbik)
+* [Zelar pela qualidade de código não é preciosismo (Ricardo Valeriano)](https://www.youtube.com/watch?v=CKG5d2HOBSk)
+
+### Startups
+
+* [Startups & Software (Fábio Akita)](https://www.eventials.com/pt-br/locaweb/startups-software-2/)
+* [Porque seu novo produto vai fracassar? (Juan Bernabó)](https://www.youtube.com/watch?v=zy9gHq-254g)
+* [A arte de fazer tudo sem ter absolutamente nada (Thiago Feijão)](https://www.youtube.com/watch?v=PSDW6cpKDgs)
+* [Business Model Generation (Diego Sieg)](https://www.youtube.com/watch?v=URSdI00-HmU)
+* [TaxiLink - Uma "Lean Startup" no cenário brasileiro](https://www.youtube.com/watch?v=bi70y4qlNb0)
 
 ### Games
 
