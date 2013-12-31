@@ -25,6 +25,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 * [O fantástico mundo do JavaScript (Jean Carlo Emer)](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 * [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
+* [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
+* [Curso de jQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PL0BF91DBECE5F52F9)
 
 ### Modern Workflow
 
@@ -43,6 +45,8 @@ Sem mais delongas, segue a lista abaixo.
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
 * [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
+* [Curso de xHTML (Universidade XTI)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
+* [Curso de CSS (Universidade XTI)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
 
 ### Web Mobile
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
@@ -64,6 +68,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Baby.com.br: Analisando, adaptando e melhorando a arquitetura da informação em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=KlIGJM5X-fA)
 * [Guias de Estilo para a interface do usuário (Dani Guerrato e Leandro Lima)](https://www.eventials.com/pt-br/locaweb/guias-de-estilo-para-a-interface-do-usuario/)
 * [Construindo um Framework (Diego Eis)](https://www.eventials.com/pt-br/locaweb/construindo-um-framework/)
+* [UX start's with U (Franz Figueroa)](https://www.youtube.com/watch?v=3d_dfi820zg)
 
 ### Conceitos Gerais
 
