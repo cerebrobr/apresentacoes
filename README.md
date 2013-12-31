@@ -51,9 +51,12 @@ Sem mais delongas, segue a lista abaixo.
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 * [Curso de xHTML (Universidade XTI)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
 * [Curso de CSS (Universidade XTI)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
+* [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 
-### Web Mobile
+### Web Mobile/Acessibilidade
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
+* [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
+* [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](https://www.youtube.com/watch?v=MMLQioPwbik)
 
 ### Ruby/RoR
 
