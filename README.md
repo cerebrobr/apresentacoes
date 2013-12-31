@@ -58,6 +58,9 @@ Sem mais delongas, segue a lista abaixo.
 * [Curso de xHTML (Universidade XTI)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
 * [Curso de CSS (Universidade XTI)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
+* [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
+* [Responsive design e suas aplicacões (CPBR6)](http://www.youtube.com/watch?v=m1iV2C44Duc)
+
 
 ### Web Mobile/Acessibilidade
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
@@ -84,6 +87,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Guias de Estilo para a interface do usuário (Dani Guerrato e Leandro Lima)](https://www.eventials.com/pt-br/locaweb/guias-de-estilo-para-a-interface-do-usuario/)
 * [Construindo um Framework (Diego Eis)](https://www.eventials.com/pt-br/locaweb/construindo-um-framework/)
 * [UX start's with U (Franz Figueroa)](https://www.youtube.com/watch?v=3d_dfi820zg)
+* [Direção de arte e a Open Web Platform](http://www.youtube.com/watch?v=5Qno_7z6Qes)
 
 ### Conceitos Gerais
 
