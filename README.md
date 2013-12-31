@@ -13,24 +13,24 @@ Sem mais delongas, segue a lista abaixo.
 
 ### Javascript
 
+* [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
+* [Curso de jQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PL0BF91DBECE5F52F9)
+* [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
+* [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
+* [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
+* [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
+* [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
+* [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [AST – Abstract Syntax Tree (Miller Medeiros)](http://setemasters.imasters.com.br/conversas/ast-abstract-syntax-tree/)
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
 * [Programação assíncrona com JavaScript](http://www.infoq.com/br/presentations/programacao-assincrona-javascript)
-* [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
-* [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
-* [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
 * [JavaScript Funcional (Plínio Balduino)](http://setemasters.imasters.com.br/conversas/javascript-funcional/)
-* [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
-* [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 * [O fantástico mundo do JavaScript (Jean Carlo Emer)](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 * [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
-* [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
 * [NodeJS em Produção (Thiago Avelino)](https://www.youtube.com/watch?v=9SL1BeMLxdo)
 * [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
-* [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
-* [Curso de jQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PL0BF91DBECE5F52F9)
 
 ### Modern Workflow
 
@@ -122,8 +122,11 @@ Caso você deseje contribuir e compartilhar com alguma palestra que você conhe�
 
 ## Lista de contribuidores
 
+[@pedronauck](https://github.com/pedronauck)	
 [@brenopolanski](https://github.com/brenopolanski)	
 [@arthurfigueiredo](https://github.com/arthurfigueiredo)	
 [@danielfeelfine](https://github.com/danielfeelfine)	
+[@magnobiet](https://github.com/magnobiet)
 
 Contribua você também! :)
+	
