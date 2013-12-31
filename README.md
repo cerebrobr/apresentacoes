@@ -46,6 +46,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Os desafios do desenvolvimento de front-end em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=5abzSBa33l4)
 * [Usando Vagrant como ambiente de desenvolvimento Ruby (Nando Vieira)](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
 * [Como economizar tempo e melhorar os seus projetos utilizando Grunt (Bruno Azevedo)](http://www.youtube.com/watch?v=OF56WFEpAUQ)
+* [Como manter um front-end produtivo e eficiente em testes (Maurício Wolff)](http://www.youtube.com/watch?v=TgUSFaKgyhY)
+
 
 ### HTML5/CSS
 
