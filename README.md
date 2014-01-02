@@ -68,6 +68,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](https://www.youtube.com/watch?v=MMLQioPwbik)
+* [Frontend com Acessibilidade (Horácio Soares e Clécio Bachini)](http://www.youtube.com/watch?v=hmw0bFD7GHw)
 
 ### Ruby/RoR
 
@@ -89,7 +90,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Guias de Estilo para a interface do usuário (Dani Guerrato e Leandro Lima)](https://www.eventials.com/pt-br/locaweb/guias-de-estilo-para-a-interface-do-usuario/)
 * [Construindo um Framework (Diego Eis)](https://www.eventials.com/pt-br/locaweb/construindo-um-framework/)
 * [UX start's with U (Franz Figueroa)](https://www.youtube.com/watch?v=3d_dfi820zg)
-* [Direção de arte e a Open Web Platform](http://www.youtube.com/watch?v=5Qno_7z6Qes)
+* [Direção de arte e a Open Web Platform (Fábio Flatschart)](http://www.youtube.com/watch?v=5Qno_7z6Qes)
 
 ### Conceitos Gerais
 
@@ -131,6 +132,8 @@ Sem mais delongas, segue a lista abaixo.
 
 * [Análise Multi-canais e Modelos de atribuição de campanhas na prática](http://intercon.imasters.com.br/conteudo/analise-multi-canais-e-modelos-de-atribuicao-de-campanhas-na-pratica/)
 * [Search Marketing Optimization na prática](http://intercon.imasters.com.br/conteudo/search-marketing-optimization-na-pratica/)
+* [SEO para Front-end (Fábio Ricotta)](http://www.youtube.com/watch?v=gauN7UL2d2Y)
+* [SEO para startups (Rafael Oshiro)](http://www.youtube.com/watch?v=m9nSAWiGZoo)
 
 ### Planejamento
 
