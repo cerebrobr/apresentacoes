@@ -74,6 +74,7 @@ Sem mais delongas, segue a lista abaixo.
 
 * [Press Start (Vitor Carlos)](http://www.youtube.com/watch?v=fB3TvRRfLTA)
 * [JavaScript e os Jogos no Browser (Willian Molinari - PotHix)](http://www.youtube.com/watch?v=TbgODPU2tro)
+* [Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis)](http://www.youtube.com/watch?v=Prkyd5n0P7k "Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis)")
 
 ## Marketing Digital
 
