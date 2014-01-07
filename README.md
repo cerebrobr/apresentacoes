@@ -62,7 +62,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 * [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Responsive design e suas aplicacões (CPBR6)](http://www.youtube.com/watch?v=m1iV2C44Duc)
-
+* [Como ganhar performance de front-end em aplicações modernas (Iraê Lambert de Carvalho)] (http://www.youtube.com/watch?v=b7CfeEGYoSg)
 
 ### Web Mobile/Acessibilidade
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
