@@ -156,7 +156,7 @@ Caso você deseje contribuir e compartilhar com alguma palestra que você conhe�
 [@arthurfigueiredo](https://github.com/arthurfigueiredo)	
 [@danielfeelfine](https://github.com/danielfeelfine)	
 [@magnobiet](https://github.com/magnobiet)	
-[@arthurmichel](https://github.com/arthurmichel)
+[@arthurmichel](https://github.com/arthurmichel)	
 [@lucascarvalho](https://github.com/lucascarvalho)
 
 Contribua você também! :)
