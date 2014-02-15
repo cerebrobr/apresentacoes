@@ -69,6 +69,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](https://www.youtube.com/watch?v=MMLQioPwbik)
 * [Frontend com Acessibilidade (Horácio Soares e Clécio Bachini)](http://www.youtube.com/watch?v=hmw0bFD7GHw)
+* [Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos (Sérgio Lopes)](https://www.youtube.com/watch?v=bJdFqCnxmVY)
 
 ### Ruby/RoR
 
