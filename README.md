@@ -37,6 +37,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 * [Realtime com AngularJS e Socket IO (Ciro Nunes)](https://www.youtube.com/watch?v=5zcmBZ6mksM)
 * [Node.js: serious business (Pedro Franceschi)](https://www.youtube.com/watch?v=_0opytdAXHk)
+* [Criando uma arquitetura de frontend do zero  (Eduardo Shiota)](https://www.eventials.com/locaweb/criando-uma-arquitetura-escalavel-de-front-end-do-zero-com-eduardo-shiota-yasuda)
 
 ### Modern Workflow
 
