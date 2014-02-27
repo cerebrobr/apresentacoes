@@ -159,8 +159,8 @@ Caso você deseje contribuir e compartilhar com alguma palestra que você conhe�
 [@danielfeelfine](https://github.com/danielfeelfine)	
 [@magnobiet](https://github.com/magnobiet)	
 [@arthurmichel](https://github.com/arthurmichel)	
-[@lucascarvalho](https://github.com/lucascarvalho)
-[@ericcristhiano](https://github.com/ericcristhiano)
+[@lucascarvalho](https://github.com/lucascarvalho)	
+[@ericcristhiano](https://github.com/ericcristhiano)	
 
 Contribua você também! :)
 	
