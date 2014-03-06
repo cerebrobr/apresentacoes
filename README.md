@@ -38,6 +38,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Realtime com AngularJS e Socket IO (Ciro Nunes)](https://www.youtube.com/watch?v=5zcmBZ6mksM)
 * [Node.js: serious business (Pedro Franceschi)](https://www.youtube.com/watch?v=_0opytdAXHk)
 * [Criando uma arquitetura de frontend do zero  (Eduardo Shiota)](https://www.eventials.com/locaweb/criando-uma-arquitetura-escalavel-de-front-end-do-zero-com-eduardo-shiota-yasuda)
+* [Video Eventials Boas Práticas JS (wbruno)](https://www.eventials.com/pinceladasdaweb/javascript-boas-praticas-e-otimizacoes/) e [exemplos](https://github.com/wbruno/boas-praticas-js)
 
 ### Modern Workflow
 
