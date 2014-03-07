@@ -1,0 +1,3 @@
+[submodule "javascript/boas-praticas-js"]
+	path = javascript/boas-praticas-js
+	url = git@github.com:wbruno/boas-praticas-js.git
