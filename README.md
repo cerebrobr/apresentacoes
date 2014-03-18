@@ -18,6 +18,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Arquitetura de Javascript Modular e Event-Drive (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/arquitetura-de-javascript-modular-e-event-driven/)
 * [Arquitetura do Front-end em Aplicações de Larga Escala (Eduardo Shiota)](https://www.eventials.com/pt-br/locaweb/eduardo-shiota-yasuda-arquitetura-do-front-end-em-aplicacoes-de-larga-escala/)
 * [AST – Abstract Syntax Tree (Miller Medeiros)](http://setemasters.imasters.com.br/conversas/ast-abstract-syntax-tree/)
+* [Be a Pro with Jasmine (@pirelenito)](http://paulo.ragonha.me/tdc2013/jasmine/#/)
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
 * [Criando uma arquitetura de frontend do zero  (Eduardo Shiota)](https://www.eventials.com/locaweb/criando-uma-arquitetura-escalavel-de-front-end-do-zero-com-eduardo-shiota-yasuda)
 * [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
