@@ -62,6 +62,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
 * [HTML5 APIs para Mobile (Zeno Rocha)](https://www.youtube.com/watch?v=ncYj9Z8LwNM)
 * [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
+* [Otimização de performance na Web: desafios do mundo mobile (Sérgio Lopes)](http://www.infoq.com/br/presentations/otimizacao-performance-web)
 * [Responsive design e suas aplicacões (CPBR6)](http://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Responsive Web Design e a Ubiquidade da Web (Eduardo Shiota)](https://www.youtube.com/watch?v=9PQgEl8dOAY)
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
