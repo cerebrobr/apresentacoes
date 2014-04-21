@@ -1,7 +1,6 @@
-Presentation List
-=====
+![Apresentações Icon](https://raw.github.com/cerebrobr/apresentacoes/master/icon.png)
 
-![Presentation List Icon](https://raw.github.com/pedronauck/presentation-list/master/icon.png)
+# Apresentações
 
 Palestras são ótimos meios de estudo para quem deseja se atualizar e poder ficar mais por dentro do que está rolando em determinado nicho. Pensando nisso surgiu a idéia deste repositório. Catalogar em um único lugar ***palestras em video***, tanto de Desenvolvimento Web quanto de Marketing Digital.
 
