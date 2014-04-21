@@ -146,24 +146,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Planejamento de Marketing: construa seu império mirando um ponto no horizonte](https://www.eventials.com/pt-br/paulaquintao/planejamento-de-marketing-construa-seu-imperio-mirando-um-horizonte-gratuita/)
 * [Planejamento em Marketing Digital: Dá certo! Case Sapatos Mania](https://www.eventials.com/pt-br/empirica/planejamento-em-marketing-digital-da-certo-case-sapatos-mania/)
 
-# Contribua a Vontade!
 
-Caso você deseje contribuir e compartilhar com alguma palestra que você conheça, as dicas são simples:
+## [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
 
-* Faça um fork deste projeto
-* Adicione as suas opções de palestra seguindo os padrões de categorias, títulos e links.
-* Mande um pull request!
 
-## Lista de contribuidores
-
-[@arthurfigueiredo](https://github.com/arthurfigueiredo)    
-[@arthurmichel](https://github.com/arthurmichel)    
-[@brenopolanski](https://github.com/brenopolanski)  
-[@danielfeelfine](https://github.com/danielfeelfine)    
-[@ericcristhiano](https://github.com/ericcristhiano)    
-[@lucascarvalho](https://github.com/lucascarvalho)  
-[@magnobiet](https://github.com/magnobiet)  
-[@pedronauck](https://github.com/pedronauck)    
-
-Contribua você também! :)
 	
