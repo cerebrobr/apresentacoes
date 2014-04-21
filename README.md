@@ -75,7 +75,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
 
-### Ruby/RoR
+### Ruby/Rails
 
 * [Criando APIs com Ruby on Rails (Nando Vieira)](http://www.infoq.com/br/presentations/criando-apis-ruby-on-rails)
 * [Javascript, Ruby, Python e o mercado para os próximos anos (Alysson Franklin)](https://www.youtube.com/watch?v=SpW9hikuR84)
@@ -147,7 +147,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Planejamento em Marketing Digital: Dá certo! Case Sapatos Mania](https://www.eventials.com/pt-br/empirica/planejamento-em-marketing-digital-da-certo-case-sapatos-mania/)
 
 
-## [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
+<br/>
 
+---
 
-	
+#### [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
