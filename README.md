@@ -95,7 +95,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Django para portais de alta visibilidade (Thiago Avelino e Bruno Rocha)](http://www.youtube.com/watch?v=3etidboJ3iM)
 * [AudioLazy Python DSP (Digital Signal Processing)(Danilo Bellini)](http://www.youtube.com/watch?v=TF13AQO0Hlk) 
 * [Construindo um api de dados esportivos que responde a 6000 req/s (Rafael Martins)](http://www.youtube.com/watch?v=KpewpjWX8Q8)
-*  
+  
 ### UI/UX
 
 * [Baby.com.br: Analisando, adaptando e melhorando a arquitetura da informação em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=KlIGJM5X-fA)
