@@ -87,6 +87,15 @@ Sem mais delongas, segue a lista abaixo.
 * [Sua primeira app Rails 4.0 no ar em 30 minutos](https://www.eventials.com/pt-br/cafecomdevlondrina/cafecomdevlondrina-2/)
 * [Tendências de hoje e amanhã no mundo ruby (Fabio Akita)](https://www.youtube.com/watch?v=G_BvPRpnJOI)
 
+### Python
+
+* [Sem __magica__: usando bem os métodos especiais (Luciano Ramalho) ](http://www.youtube.com/watch?v=71fPrl9u9Ac)
+* [Python para Zumbis (Fernado Masanori)](http://www.youtube.com/watch?v=_OQEcuGHrxQ)
+* [Lifestyle Business e o Ecossistema Python (Henrique Bastos)](http://www.youtube.com/watch?v=mHRinieklio)
+* [Django para portais de alta visibilidade (Thiago Avelino e Bruno Rocha)](http://www.youtube.com/watch?v=3etidboJ3iM)
+* [AudioLazy Python DSP (Digital Signal Processing)(Danilo Bellini)](http://www.youtube.com/watch?v=TF13AQO0Hlk) 
+* [Construindo um api de dados esportivos que responde a 6000 req/s (Rafael Martins)](http://www.youtube.com/watch?v=KpewpjWX8Q8)
+  
 ### UI/UX
 
 * [Baby.com.br: Analisando, adaptando e melhorando a arquitetura da informação em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=KlIGJM5X-fA)
