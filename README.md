@@ -1,6 +1,8 @@
-![Apresentações Icon](https://raw.github.com/cerebrobr/apresentacoes/master/icon.png)
-
 # Apresentações
+
+> **IMPORTANTE:**
+> 
+> Este repositório será apenas para alimentar **palestras** em pt-BR. Quaisquer video-tutoriais serão removidos. Por favor, antes de realizar o _pull request_, leia o [Guia de Contribuição](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir) da nossa organização.
 
 Palestras são ótimos meios de estudo para quem deseja se atualizar e poder ficar mais por dentro do que está rolando em determinado nicho. Pensando nisso surgiu a idéia deste repositório. Catalogar em um único lugar ***palestras em video***, de Desenvolvimento Web, Design e Marketing Digital.
 
@@ -20,8 +22,6 @@ Sem mais delongas, segue a lista abaixo.
 * [Be a Pro with Jasmine (@pirelenito)](http://paulo.ragonha.me/tdc2013/jasmine/#/)
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
 * [Criando uma arquitetura de frontend do zero  (Eduardo Shiota)](https://www.eventials.com/locaweb/criando-uma-arquitetura-escalavel-de-front-end-do-zero-com-eduardo-shiota-yasuda)
-* [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
-* [Curso de jQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PL0BF91DBECE5F52F9)
 * [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
 * [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
@@ -56,8 +56,6 @@ Sem mais delongas, segue a lista abaixo.
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
 * [Como ganhar performance de front-end em aplicações modernas (Iraê Lambert de Carvalho)] (http://www.youtube.com/watch?v=b7CfeEGYoSg)
 * [CSS modular: construindo front-ends flexíveis e escaláveis (Bernard de Luna)](http://www.infoq.com/br/presentations/css-modular)
-* [Curso de CSS (Universidade XTI)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
-* [Curso de xHTML (Universidade XTI)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
 * [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
 * [HTML5 APIs para Mobile (Zeno Rocha)](https://www.youtube.com/watch?v=ncYj9Z8LwNM)
 * [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
