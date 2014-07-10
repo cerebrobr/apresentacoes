@@ -54,14 +54,16 @@ Sem mais delongas, segue a lista abaixo.
 ### HTML5/CSS
 
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
+* [Arte digital na web: por onde eu começo? (Zeno Rocha)](https://www.youtube.com/watch?v=V8QZMO8rr8g)
 * [Como ganhar performance de front-end em aplicações modernas (Iraê Lambert de Carvalho)] (http://www.youtube.com/watch?v=b7CfeEGYoSg)
 * [CSS modular: construindo front-ends flexíveis e escaláveis (Bernard de Luna)](http://www.infoq.com/br/presentations/css-modular)
 * [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
 * [HTML5 APIs para Mobile (Zeno Rocha)](https://www.youtube.com/watch?v=ncYj9Z8LwNM)
 * [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Otimização de performance na Web: desafios do mundo mobile (Sérgio Lopes)](http://www.infoq.com/br/presentations/otimizacao-performance-web)
-* [Responsive design e suas aplicacões (CPBR6)](http://www.youtube.com/watch?v=m1iV2C44Duc)
+* [Layouts responsivos: o seu conteúdo em múltiplos dispositivos (Bernard de Luna e Zeno Rocha)](https://www.youtube.com/watch?v=ty7zj37gaBI)
 * [Responsive Web Design e a Ubiquidade da Web (Eduardo Shiota)](https://www.youtube.com/watch?v=9PQgEl8dOAY)
+* [Realidade Aumentada com HTML5 (Zeno Rocha)](http://www.infoq.com/br/presentations/realidade-aumentada-html5)
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 
