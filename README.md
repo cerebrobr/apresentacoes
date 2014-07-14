@@ -66,6 +66,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Realidade Aumentada com HTML5 (Zeno Rocha)](http://www.infoq.com/br/presentations/realidade-aumentada-html5)
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
+* [O Mágico mundo de Web Components (Mateus Ortiz)](https://www.youtube.com/watch?v=chVtnPCL9pE)
 
 ### Web Mobile/Acessibilidade
 
