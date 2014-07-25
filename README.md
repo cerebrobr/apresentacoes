@@ -30,6 +30,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
 * [Javascript: rompendo e criando novos paradigmas (Miller Medeiros)](https://www.youtube.com/watch?v=iuGcH_IiM34)
+* [Keynote: Javascript (Fábio Costa)](https://www.youtube.com/watch?v=U_eieH9-l38)
 * [Node.js: JavaScript com Google V8 no servidor (Luciano Ramalho)](https://www.youtube.com/watch?v=B0hc7hmpCD4)
 * [Node.js: serious business (Pedro Franceschi)](https://www.youtube.com/watch?v=_0opytdAXHk)
 * [NodeJS em Produção (Thiago Avelino)](https://www.youtube.com/watch?v=9SL1BeMLxdo)
