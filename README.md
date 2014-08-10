@@ -68,6 +68,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 * [O Mágico mundo de Web Components (Mateus Ortiz)](https://www.youtube.com/watch?v=chVtnPCL9pE)
+* [É possível utilizar componentes desenvolvidos apenas com CSS? (Felipe Fialho)](http://www.felipefialho.com/talk-css-components-14-08-08/#/)
 
 ### Web Mobile/Acessibilidade
 
