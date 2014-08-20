@@ -50,6 +50,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Os desafios do desenvolvimento de front-end em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=5abzSBa33l4)
 * [Turbinando seu ambiente de desenvolvimento com Yeoman](http://www.infoq.com/br/presentations/desenvolvimento-yeoman)
 * [Usando Vagrant como ambiente de desenvolvimento Ruby (Nando Vieira)](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
+* [Automação com Grunt (Hugo Bessa)](http://hugobessa.com.br/posts/automacao-com-grunt/)
 
 
 ### HTML5/CSS
