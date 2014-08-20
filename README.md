@@ -26,6 +26,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
 * [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
 * [JavaScript Funcional (Plínio Balduino)](http://setemasters.imasters.com.br/conversas/javascript-funcional/)
+* [JavaScript Funcional (Nando Vieira)](http://www.infoq.com/br/presentations/javascript-funcional)
 * [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
