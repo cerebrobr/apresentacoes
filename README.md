@@ -26,6 +26,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
 * [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
 * [JavaScript Funcional (Plínio Balduino)](http://setemasters.imasters.com.br/conversas/javascript-funcional/)
+* [JavaScript Funcional (Nando Vieira)](http://www.infoq.com/br/presentations/javascript-funcional)
 * [JavaScript Idiomático (Leo Balter)](http://setemasters.imasters.com.br/conversas/javascript-idiomatico/)
 * [Javascript Modular (Rafael Oliveira)](https://www.youtube.com/watch?v=HBTwzsqA3E0)
 * [Javascript que Voa (Daniel Filho)](http://setemasters.imasters.com.br/conversas/javascript-que-voa/)
@@ -50,6 +51,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Os desafios do desenvolvimento de front-end em um e-commerce (Eduardo Shiota)](https://www.youtube.com/watch?v=5abzSBa33l4)
 * [Turbinando seu ambiente de desenvolvimento com Yeoman](http://www.infoq.com/br/presentations/desenvolvimento-yeoman)
 * [Usando Vagrant como ambiente de desenvolvimento Ruby (Nando Vieira)](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
+* [Automação com Grunt (Hugo Bessa)](http://hugobessa.com.br/posts/automacao-com-grunt/)
 
 
 ### HTML5/CSS
