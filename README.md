@@ -149,7 +149,7 @@ Sem mais delongas, segue a lista abaixo.
 
 ### WordPress
 
-*Vídeo das palestras apresentadas no WordCamp São Paulo 2014.*
+*Vídeos das palestras apresentadas no WordCamp São Paulo 2014.*
 
 * [Dicas e truques para desenvolver projetos WEB utilizando WordPress (Leo Baiano)](http://wordpress.tv/2014/12/04/leo-baiano-dicas-e-truques-para-desenvolver-projetos-web-utilizando-wordpress/)
 * [Fazendo milagres com WordPress (Deblyn Prado e Rafael Funchal)](http://wordpress.tv/2014/12/04/deblyn-prado-e-rafael-funchal-fazendo-milagres-com-wordpress/)
