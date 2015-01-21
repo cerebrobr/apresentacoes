@@ -147,6 +147,20 @@ Sem mais delongas, segue a lista abaixo.
 * [Testes A/B – Experimentando conteúdo e otimizando conversões](http://intercon.imasters.com.br/conteudo/testes-ab-experimentando-conteudo-e-otimizando-conversoes/)
 * [Web Analytics Hacks – Implementação avançada de métricas, customizações e truques](http://intercon.imasters.com.br/conteudo/web-analytics-hacks-implementacao-avancada-de-metricas-customizacoes-e-truques/)
 
+### WordPress
+
+## Vídeo das palestras apresentadas no WordCamp São Paulo 2014
+
+* [Dicas e truques para desenvolver projetos WEB utilizando WordPress (Leo Baiano)](http://wordpress.tv/2014/12/04/leo-baiano-dicas-e-truques-para-desenvolver-projetos-web-utilizando-wordpress/)
+* [Fazendo milagres com WordPress (Deblyn Prado e Rafael Funchal)](http://wordpress.tv/2014/12/04/deblyn-prado-e-rafael-funchal-fazendo-milagres-com-wordpress/)
+* [Campos personalizados like a pro: conheça o Advanced Custom Fields (Guga Alves)](http://wordpress.tv/2014/12/04/guga-alves-campos-personalizados-like-a-pro-conheca-o-advanced-custom-fields/)
+* [Um guia prático para planejar seu projeto WordPress (Leo Germani)](http://wordpress.tv/2014/12/04/leo-germani-um-guia-pratico-para-planejar-seu-projeto-wordpress/)
+* [SEO para Desenvolvedores (Ruan Barbosa)](http://wordpress.tv/2014/12/04/ruan-barbosa-seo-para-desenvolvedores/)
+* [Do início ao fim com WordPress: Planejamento, desenvolvimento e desafios (Airton Vancin e Raphael Fabeni)](http://wordpress.tv/2014/12/04/airton-vancin-e-raphael-fabeni-do-inicio-ao-fim-com-wordpress-planejamento-desenvolvimento-e-desafios/)
+* [Um gole de otimização no WordPress (Fernando Daciuk)](http://wordpress.tv/2014/12/03/fernando-daciuk-um-gole-de-otimizacao-no-wordpress/)
+* [Como eu aprendo WordPress (Breno Alves)](http://wordpress.tv/2014/11/20/breno-alves-como-eu-aprendo-wordpress/)
+* [Usando o WordPress como API para servir um mundo de dispositivos (Rômulo Zoch)](http://wordpress.tv/2014/12/04/romulo-zoch-usando-o-wordpress-como-api-para-servir-um-mundo-de-dispositivos/)
+
 ### SEO/PPC
 
 * [Análise Multi-canais e Modelos de atribuição de campanhas na prática](http://intercon.imasters.com.br/conteudo/analise-multi-canais-e-modelos-de-atribuicao-de-campanhas-na-pratica/)
