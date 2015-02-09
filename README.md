@@ -41,6 +41,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Realtime com AngularJS e Socket IO (Ciro Nunes)](https://www.youtube.com/watch?v=5zcmBZ6mksM)
 * [Single Page Apps FTW! (Ciro Nunes)](http://www.youtube.com/watch?v=IiTz6EVjHnc)
 * [Video Eventials Boas Práticas JS (wbruno)](https://www.eventials.com/pinceladasdaweb/javascript-boas-praticas-e-otimizacoes/) e [exemplos](https://github.com/wbruno/boas-praticas-js)
+* [Ampliando suas fronteiras com Node-Webkit (Beto Muniz)](https://www.youtube.com/watch?v=Yjm4NVq0neA&feature=youtu.be&t=3h43m39s)
+* [Express 4.0 (Beto Muniz)](http://youtu.be/T7S90RX83dQ)
 
 ### Modern Workflow
 
@@ -70,6 +72,9 @@ Sem mais delongas, segue a lista abaixo.
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 * [O Mágico mundo de Web Components (Mateus Ortiz)](https://www.youtube.com/watch?v=chVtnPCL9pE)
+* [Tudo que você precisa saber para iniciar com Polymer e Webcomponents (Beto Muniz e Jonata Weber)](https://www.youtube.com/watch?v=CwiTIYBUHTY)
+* [Desmistificando o Polymer (Beto Muniz)](https://www.youtube.com/watch?v=Lf-n6d7hfPs)
+* [Web Components, a próxima revolução do desenvolvimento web (Beto Muniz)](http://youtu.be/RjPzxHum4Cg)
 
 ### Web Mobile/Acessibilidade
 
