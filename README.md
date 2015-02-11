@@ -114,6 +114,9 @@ Sem mais delongas, segue a lista abaixo.
 * [Guias de Estilo para a interface do usuário (Dani Guerrato e Leandro Lima)](https://www.eventials.com/pt-br/locaweb/guias-de-estilo-para-a-interface-do-usuario/)
 * [Tecnologia, Design e Sociedade (Michell Zappa)](https://www.youtube.com/watch?v=xqLXAKshEzQ)
 * [UX start's with U (Franz Figueroa)](https://www.youtube.com/watch?v=3d_dfi820zg)
+* [I love Pixels (Ítalo Waxman)](http://pt.slideshare.net/italowaxman/i-love-pixels)
+* [Tudo que você precisa saber sobre Layouts para web (Ítalo Waxman)](http://pt.slideshare.net/italowaxman/tudo-o-que-voc-precisa-saber-sobre-layouts-para-web)
+
 
 ### Conceitos Gerais
 
@@ -125,6 +128,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Solid através de BDD (Lucas Húngaro)](https://www.eventials.com/pt-br/locaweb/solid-atraves-de-bdd-um-guia-pratico-para-rubistas/)
 * [Uma retrospectiva sobre projetos problemáticos (Daniel Lopes)](https://www.eventials.com/pt-br/locaweb/daniel-lopes-uma-retrospectiva-sobre-projetos-problematicos/)
 * [Zelar pela qualidade de código não é preciosismo (Ricardo Valeriano)](https://www.youtube.com/watch?v=CKG5d2HOBSk)
+* [A importância do designer no sucesso de um projeto web (Ítalo Waxman)](http://pt.slideshare.net/italowaxman/a-importncia-do-designer-no-sucesso-de-um-projeto-web)
+
 
 ### Startups
 
