@@ -83,7 +83,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Frontend com Acessibilidade (Horácio Soares e Clécio Bachini)](http://www.youtube.com/watch?v=hmw0bFD7GHw)
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
-* [Os caminhos da web em alta resolução - Dicas e truques (Richard Johansen e Gilberto Crespo)] (http://www.infoq.com/br/presentations/caminhos-da-web-dicas-e-truques)
+* [Os caminhos da web em alta resolução - Dicas e truques (Richard Johansen e GilCrespo)](http://www.infoq.com/br/presentations/caminhos-da-web-dicas-e-truques)
 
 ### Ruby/Rails
 
