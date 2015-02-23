@@ -150,13 +150,15 @@ Sem mais delongas, segue a lista abaixo.
 
 ### Web analytics/Big Data
 
-* [Data Visualization – Teoria, Técnicas e práticas](http://intercon.imasters.com.br/conteudo/data-visualization-teoria-tecnicas-e-praticas/)
-* [Data-Driven Marketing / Digital Analytics Trends](http://intercon.imasters.com.br/conteudo/data-driven-marketing-digital-analytics-trends-futuro-das-metricas-otimizacao-e-inteligencia-de-negocios/)
-* [Explorando a API do Google Analytics](http://intercon.imasters.com.br/conteudo/explorando-a-api-do-google-analytics/)
-* [Segmentação e personalização – Behavioral Targeting e Retargeting na prática](http://intercon.imasters.com.br/conteudo/segmentacao-e-personalizacao-behavioral-targeting-e-retargeting-na-pratica/)
-* [Social Mining para métricas – Extraindo dados direto da fonte](http://intercon.imasters.com.br/conteudo/social-mining-para-metricas-extraindo-dados-direto-da-fonte/)
-* [Testes A/B – Experimentando conteúdo e otimizando conversões](http://intercon.imasters.com.br/conteudo/testes-ab-experimentando-conteudo-e-otimizando-conversoes/)
-* [Web Analytics Hacks – Implementação avançada de métricas, customizações e truques](http://intercon.imasters.com.br/conteudo/web-analytics-hacks-implementacao-avancada-de-metricas-customizacoes-e-truques/)
+
+* [Data Visualization – Teoria, Técnicas e práticas](http://pt.slideshare.net/imasters/2-inter-con2012metricasdatavizbrunothiagoariane3)**
+* [Data-Driven Marketing / Digital Analytics Trends](http://pt.slideshare.net/imasters/intercon-2012-metricas-data-driven-marketing-programmatic-buying)**
+* [Explorando a API do Google Analytics](https://www.youtube.com/watch?v=VVxsfB6hYSc)
+* [Segmentação e personalização – Behavioral Targeting e Retargeting na prática](http://pt.slideshare.net/imasters/4-inter-con2012metricasbtsegm)**
+* [Social Mining para métricas – Extraindo dados direto da fonte](http://pt.slideshare.net/imasters/8-inter-con2012socialminning)**
+* [Testes A/B – Experimentando conteúdo e otimizando conversões](http://pt.slideshare.net/imasters/5-inter-con2012metricas-palestra-testes)**
+* [Web Analytics Hacks – Implementação avançada de métricas, customizações e truques](http://pt.slideshare.net/imasters/3-inter-con2012metricaswahacks)**
+
 
 ### WordPress
 
@@ -174,8 +176,8 @@ Sem mais delongas, segue a lista abaixo.
 
 ### SEO/PPC
 
-* [Análise Multi-canais e Modelos de atribuição de campanhas na prática](http://intercon.imasters.com.br/conteudo/analise-multi-canais-e-modelos-de-atribuicao-de-campanhas-na-pratica/)
-* [Search Marketing Optimization na prática](http://intercon.imasters.com.br/conteudo/search-marketing-optimization-na-pratica/)
+* [Análise Multi-canais e Modelos de atribuição de campanhas na prática](http://pt.slideshare.net/imasters/6-inter-con2012multicanais-e-modelos-de-atribuicao)**
+* [Search Marketing Optimization na prática](http://pt.slideshare.net/imasters/7-inter-con2012metricassearchmarketingoptimizationnapratica)**
 * [SEO para Front-end (Fábio Ricotta)](http://www.youtube.com/watch?v=gauN7UL2d2Y)
 * [SEO para startups (Rafael Oshiro)](http://www.youtube.com/watch?v=m9nSAWiGZoo)
 
@@ -185,7 +187,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Planejamento em Marketing Digital: Dá certo! Case Sapatos Mania](https://www.eventials.com/pt-br/empirica/planejamento-em-marketing-digital-da-certo-case-sapatos-mania/)
 
 
-<br/>
+
+** Links para as palestras quebrados, temporariamente subtituídos pelas respectivas apresentações no SlideShare. (Issue [https://github.com/cerebrobr/apresentacoes/issues/24](24))
 
 ---
 
