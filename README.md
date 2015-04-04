@@ -160,6 +160,32 @@ Sem mais delongas, segue a lista abaixo.
 
 ### WordPress
 
+*Vídeos das palestras apresentadas no WordCamp Rio de Janeiro 2014.*
+
+* [Abertura do Evento + Painel Design para WordPress (Guga Alves), (Cristiano Santos, Richard Barros, Luanda Pereira, Mauricio Samy Silva “Maujor”, Rafael Burity)](https://www.youtube.com/watch?v=ZFJJJLeb4Ls/)
+
+* [Como desenvolver templates com design original e exclusivo para WP (Herick Correa)](https://www.youtube.com/watch?v=MbS1Kuy_85c/)
+
+* [Jetpack, deixando seu WordPress um jato em 15 minutos (Valério Souza)](https://www.youtube.com/watch?v=KyZeaXT8TYQ/)
+
+* [WooCommerce, muito além de um plugin (Anilton Veiga)](https://www.youtube.com/watch?v=qpmW-LzaOqg/)
+
+* [Podcast no WordPress! (Fernando Ticon)](https://www.youtube.com/watch?v=ktvXGrZScGo/)
+
+* [Newsletters no WordPress (Rafael Funchal)](https://www.youtube.com/watch?v=YEpxW7oCu78/)
+
+* [Painel de Conteúdo Web (Nick Ellis, Mauro Amaral, Carlos Alberto Ferreira, Denise Dambros, Flávio Lamenza)](https://www.youtube.com/watch?v=uF7-SxZ-A9g/)
+
+* [Introdução ao WP-CLI (Rodrigo Primo)](https://www.youtube.com/watch?v=8sAw7F4SKvQ/)
+
+* [15 coisas sobre PHP para saber antes de morrer (Michele dos Santos da Silva)](https://www.youtube.com/watch?v=v0xt17-lrb4/)
+
+* [Montando um ambiente de desenvolvimento WordPress utilizando Composer e Git (Leo Baiano)](https://www.youtube.com/watch?v=vGWFlG10YFM/)
+
+* [Tem uma ideia de um projeto? Você pode desenvolve-lo em apenas 1 final de semana! (Cayo Medeiros)](https://www.youtube.com/watch?v=fSOamVlqWLA/)
+
+* [Comunidade e Contribuições (Deblyn Prado)](https://www.youtube.com/watch?v=7APjyth9fqE/)
+
 *Vídeos das palestras apresentadas no WordCamp São Paulo 2014.*
 
 * [Dicas e truques para desenvolver projetos WEB utilizando WordPress (Leo Baiano)](http://wordpress.tv/2014/12/04/leo-baiano-dicas-e-truques-para-desenvolver-projetos-web-utilizando-wordpress/)
