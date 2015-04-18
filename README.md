@@ -21,6 +21,7 @@ Sem mais delongas, segue a lista abaixo.
 * [AST – Abstract Syntax Tree (Miller Medeiros)](http://setemasters.imasters.com.br/conversas/ast-abstract-syntax-tree/)
 * [Be a Pro with Jasmine (@pirelenito)](http://paulo.ragonha.me/tdc2013/jasmine/#/)
 * [Combinando OO e funcional numa abordagem prática do JavaScript (Christiano Milfont)](https://www.youtube.com/watch?v=p-ZZ8Ul5REA)
+* [Construindo uma API Rest com ExpressJS - NodeJS](https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
 * [Criando uma arquitetura de frontend do zero  (Eduardo Shiota)](https://www.eventials.com/locaweb/criando-uma-arquitetura-escalavel-de-front-end-do-zero-com-eduardo-shiota-yasuda)
 * [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
 * [Feel The Hacking - Construindo uma aplicação REST com Node.js](https://www.youtube.com/watch?v=V8lWtjbCKyA)
