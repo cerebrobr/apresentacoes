@@ -1,4 +1,5 @@
 # Apresentações
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cerebrobr/apresentacoes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > **IMPORTANTE:**
 > 
