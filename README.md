@@ -44,6 +44,10 @@ Sem mais delongas, segue a lista abaixo.
 * [Video Eventials Boas Práticas JS (wbruno)](https://www.eventials.com/pinceladasdaweb/javascript-boas-praticas-e-otimizacoes/) e [exemplos](https://github.com/wbruno/boas-praticas-js)
 * [Ampliando suas fronteiras com Node-Webkit (Beto Muniz)](https://www.youtube.com/watch?v=Yjm4NVq0neA&feature=youtu.be&t=3h43m39s)
 * [Express 4.0 (Beto Muniz)](http://youtu.be/T7S90RX83dQ)
+* [BrazilJS 2015 - @Spotify JavaScript (Felipe Ribeiro)](https://www.youtube.com/watch?v=xyR4G2XgcHU)
+* [BrazilJS 2015 - Placar UOL Copa do Mundo e Eleições com Node js e WebSockets(Fernando Miçalli)](https://www.youtube.com/watch?v=vR8CP0gE-No)
+* [BrazilJS 2015 - Reduce seu novo melhor amigo (Ju Gonçalves)](https://www.youtube.com/watch?v=P9mAnhNFKO4)
+* [BrazilJS 2015 - ES6, o que tem de bacana? (Jonathan Sampson)](https://www.youtube.com/watch?v=VHRdSnJbNLg)
 
 ### Modern Workflow
 
@@ -85,6 +89,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
 * [Os caminhos da web em alta resolução - Dicas e truques (Richard Johansen e GilCrespo)](http://www.infoq.com/br/presentations/caminhos-da-web-dicas-e-truques)
+* [Frontinsampa 2015 - Progressive Web Apps: o melhor da web "Appficada"(Sergio Lopes)](https://www.youtube.com/watch?v=sH7dlRnuh-k)
+* [BrazilJS 2015 - A saga dos 12 tópicos de acessibilidade(Reinaldo Ferraz)](https://www.youtube.com/watch?v=RFg6XP6oluE)
 
 ### Ruby/Rails
 
